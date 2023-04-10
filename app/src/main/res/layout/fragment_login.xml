@@ -119,7 +119,7 @@
         android:text="@string/txt_no_account_signup"
         android:textSize="14sp" />
 
-    <!--  <com.github.ybq.android.spinkit.SpinKitView
+     <com.github.ybq.android.spinkit.SpinKitView
               android:visibility="gone"
               xmlns:app="http://schemas.android.com/apk/res-auto"
               android:id="@+id/progress_bar"
@@ -128,7 +128,7 @@
               android:layout_width="wrap_content"
               android:layout_height="wrap_content"
               android:layout_gravity="center"
-              app:SpinKit_Color="@color/black" />-->
+              app:SpinKit_Color="@color/black" />
 
 
 </LinearLayout>

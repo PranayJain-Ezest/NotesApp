@@ -25,7 +25,7 @@ private var _binding:FragmentRegisterBinding?= null
 
 
 
-       binding.txtRedirect.setOnClickListener {
+       binding.btnLogin.setOnClickListener {
             findNavController().navigate(R.id.action_registerFragment_to_loginFragment)
         }
         return binding.root
